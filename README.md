@@ -94,12 +94,6 @@ Current support:
 
 - HRMS
 - Helpdesk
-
-Planned support:
-
-- CRM
-- LMS
-- Drive
 - Additional Vue-based Frappe applications
 
 ---
@@ -241,4 +235,4 @@ MIT License.
 
 Free to use in personal and commercial projects.
 
-If this project helps you, consider giving it a ⭐ on GitHub.
+If this project helps you, consider giving it a ⭐.
